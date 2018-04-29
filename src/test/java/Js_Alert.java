@@ -17,11 +17,14 @@ import static java.awt.event.KeyEvent.VK_LEFT;
 public class Js_Alert {
 
     public static void main(String[] args) throws AWTException {
+        System.setProperty("webdriver.gecko.driver",".\\src\\resources\\geckodriver.exe");
 
         WebDriver dr = new FirefoxDriver();
         dr.manage().window().maximize();
 
-        dr.get("https://mail.rediff.com/cgi-bin/login.cgi");
+        dr.get("bbc.co.uk");
+
+//        dr.get("https://mail.rediff.com/cgi-bin/login.cgi");
         dr.findElement(By.name("proceed")).click();
         WebDriverWait wait = new WebDriverWait(dr, 20);
         wait.until(ExpectedConditions.alertIsPresent());
@@ -32,6 +35,6 @@ public class Js_Alert {
         dr.switchTo().defaultContent();
 Robot rb=new Robot();
 dr.get("https://bbc.co.uk");
-rb.keyPress(KeyEvent,VK_LEFT);
+//rb.keyPress(KeyEvent,VK_LEFT);
     }
 }
