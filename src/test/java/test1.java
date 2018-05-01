@@ -17,7 +17,7 @@ public class test1 {
         String test = "Hathway Cable & Data";
 
         //TODO Auto-generated method stub
-        //System.setProperty("webdriver.gecko.driver", "D://Selenium//geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "C:\\Git\\Ref\\sampleTest\\src\\resources\\geckodriver.exe");
 
 
         WebDriver dr = new FirefoxDriver();
