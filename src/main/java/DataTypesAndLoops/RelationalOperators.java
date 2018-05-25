@@ -1,3 +1,5 @@
+package DataTypesAndLoops;
+
 public class RelationalOperators {
 
     public static String compareTwoNumbers(int a, int b){

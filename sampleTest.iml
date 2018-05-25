@@ -42,4 +42,8 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.seleniumhq.selenium:selenium-support:3.11.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.commons:commons-lang3:3.6" level="project" />
   </component>
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
 </module>

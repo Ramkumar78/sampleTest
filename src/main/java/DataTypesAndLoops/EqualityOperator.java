@@ -1,3 +1,5 @@
+package DataTypesAndLoops;
+
 public class EqualityOperator {
 
     public boolean compareTwoNumberforEquality(int i, int i1) {

@@ -1,5 +1,7 @@
 import org.junit.Test;
 
+import DataTypesAndLoops.TernaryOperator;
+
 public class TernaryOperatorTest {
 
     TernaryOperator ternaryOperator = new TernaryOperator();

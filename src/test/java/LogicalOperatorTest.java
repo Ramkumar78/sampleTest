@@ -1,6 +1,9 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+import DataTypesAndLoops.EqualityOperator;
+import DataTypesAndLoops.LogicalOperator;
+
 public class LogicalOperatorTest {
 
     LogicalOperator logOpt = new LogicalOperator();

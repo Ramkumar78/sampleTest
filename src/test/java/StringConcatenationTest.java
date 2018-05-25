@@ -1,6 +1,8 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+import DataTypesAndLoops.StringConcatenation;
+
 public class StringConcatenationTest {
 
     StringConcatenation stringConcatenation = new StringConcatenation();

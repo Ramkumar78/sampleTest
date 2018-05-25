@@ -1,3 +1,5 @@
+package DataTypesAndLoops;
+
 public class PlayWithString {
 
     public int stringLengthFinder(String test) {

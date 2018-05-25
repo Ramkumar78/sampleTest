@@ -1,3 +1,5 @@
+package DataTypesAndLoops;
+
 public class TernaryOperator {
 
     public boolean evaluateExpression(String user){

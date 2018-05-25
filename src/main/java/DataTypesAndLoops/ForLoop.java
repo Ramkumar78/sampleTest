@@ -1,3 +1,5 @@
+package DataTypesAndLoops;
+
 import java.util.Arrays;
 
 public class ForLoop {
@@ -36,6 +38,7 @@ public class ForLoop {
         names[2] = "Roger";
         for (String name : names) {
             System.out.print(name + ", ");
+
 
             System.out.println("what does name matters");
         }

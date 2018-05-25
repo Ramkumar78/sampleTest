@@ -1,6 +1,8 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+import DataTypesAndLoops.ArithmeticOperator;
+
 public class ArithmeticTest {
     ArithmeticOperator test=new ArithmeticOperator();
 

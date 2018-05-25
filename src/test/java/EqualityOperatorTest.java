@@ -1,6 +1,8 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+import DataTypesAndLoops.EqualityOperator;
+
 public class EqualityOperatorTest {
     EqualityOperator eqOpt=new EqualityOperator();
 
