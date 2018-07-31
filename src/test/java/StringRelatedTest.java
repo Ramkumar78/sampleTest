@@ -3,6 +3,8 @@ import org.junit.Test;
 
 import java.util.stream.IntStream;
 
+import DataTypesAndLoops.FindLengthOfString;
+
 public class StringRelatedTest {
 
     FindLengthOfString flos = new FindLengthOfString();

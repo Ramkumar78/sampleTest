@@ -1,6 +1,8 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+import DataTypesAndLoops.ArithmeticOperator;
+
 public class ArithmeticTest {
     ArithmeticOperator test=new ArithmeticOperator();
 
@@ -24,12 +26,19 @@ public class ArithmeticTest {
     public void booleanValueInvertTest(){
 
         Assert.assertEquals(true,test.booleanValueInvert(false));
+        String name = "Jacek";
+        String str = "X";
+        str = str.replaceAll("X", "XXXXXXXXXX");
+        str = str.replaceAll("X", "XXXXXXXXXX");
+        str = str.replaceAll("X", "XXXXXXXXXX");
+        str = str.replaceAll("X", name + "\n");
+        System.out.println(str);
 
     }
 
     @Test
     public void preIncrementTest(){
-        Assert.assertEquals(1,test.preIncrement(0));
+        Assert.assertEquals(5,test.preIncrement(0));
         int x = 3;
         int y = ++x * 5 / x-- + --x;
         System.out.println("x is " + x);

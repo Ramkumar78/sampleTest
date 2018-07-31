@@ -1,6 +1,9 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+import DataTypesAndLoops.EqualityOperator;
+import DataTypesAndLoops.LogicalOperator;
+
 public class LogicalOperatorTest {
 
     LogicalOperator logOpt = new LogicalOperator();
@@ -23,7 +26,7 @@ public class LogicalOperatorTest {
     @Test
     public void logicalExclusiveOrTest() {
         String y = logOpt.exclusiveOrOperator(true, false);
-        Assert.assertEquals("fantastic", y);
+        Assert.assertEquals("best", y);
     }
 
     @Test

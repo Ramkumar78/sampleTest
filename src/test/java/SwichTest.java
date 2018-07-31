@@ -1,6 +1,8 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+import DataTypesAndLoops.SwitchStatment;
+
 public class SwichTest {
 
     SwitchStatment switchStatment = new SwitchStatment();
