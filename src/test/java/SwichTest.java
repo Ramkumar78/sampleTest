@@ -54,7 +54,7 @@ public class SwichTest {
             System.out.println("do while loop");
             x++;
         }
-        while (x==123);
+        while (x==13);
 
         String y= String.valueOf(x);
         System.out.println(y);

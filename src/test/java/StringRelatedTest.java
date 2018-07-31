@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 public class StringRelatedTest {
 
     FindLengthOfString flos = new FindLengthOfString();
-
+PlayWithString pws=new PlayWithString();
     @Test
     public void lengthOfStringTest1() {
         int a = flos.lengthOfString("test123");
@@ -16,6 +16,13 @@ public class StringRelatedTest {
         System.out.println(x.count());
 
         Assert.assertEquals(7, a);
+    }
+
+    @Test
+    public void findIndexTest(){
+
+        pws.findIndexOfChar("Animal", "m",0);
+
     }
 
 }
