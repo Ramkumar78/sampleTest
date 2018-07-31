@@ -9,7 +9,14 @@ public class ForLoopTest {
 
     @Test
     public void forloopTest() {
-        forLoopeg.forLoop();
+//        forLoopeg.forLoop();
+        String name = "Jacek";
+        String str = "X";
+        str = str.replaceAll("X", "XXXXXXXXXX");
+        str = str.replaceAll("X", "XXXXXXXXXX");
+        str = str.replaceAll("X", "XXXXXXXXXX");
+//        str = str.replaceAll("X", name + "\n"+1  +1);
+        System.out.println(str);
     }
 
     @Test

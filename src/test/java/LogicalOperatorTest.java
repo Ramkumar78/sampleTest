@@ -26,7 +26,7 @@ public class LogicalOperatorTest {
     @Test
     public void logicalExclusiveOrTest() {
         String y = logOpt.exclusiveOrOperator(true, false);
-        Assert.assertEquals("fantastic", y);
+        Assert.assertEquals("best", y);
     }
 
     @Test
