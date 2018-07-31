@@ -22,8 +22,8 @@ public class SwichTest {
 
 
         {
-            int x = switchStatment.swichExecutor(4, 8, "add");
-            Assert.assertEquals(12, x);
+            int x = switchStatment.swichExecutor(5, 8, "add");
+            Assert.assertEquals(13, x);
         }
 
     }
