@@ -38,7 +38,7 @@ public class ArithmeticTest {
 
     @Test
     public void preIncrementTest(){
-        Assert.assertEquals(5,test.preIncrement(0));
+        Assert.assertEquals(1,test.preIncrement(0));
         int x = 3;
         int y = ++x * 5 / x-- + --x;
         System.out.println("x is " + x);

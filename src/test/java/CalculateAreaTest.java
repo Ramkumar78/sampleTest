@@ -1,6 +1,5 @@
 import org.junit.Assert;
 import org.junit.Test;
-import sun.nio.cs.ext.MacThai;
 
 //import static java.lang.Math.PI;
 import static java.lang.Math.*;
