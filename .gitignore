@@ -36,3 +36,5 @@ target/surefire-reports/
 src/test/java/PriceUpdater.java
 target/maven-archiver/
 target
+.idea/workspace.xml
+.idea
