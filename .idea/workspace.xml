@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="73a0effe-990d-43d9-b472-08e5903dc2f7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,23 +16,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindLengthOfString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FindLengthOfString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StringRelatedTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StringRelatedTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <marker date="1533067997965" expanded="true" signature="310:509" ph="{...}" />
+                <marker date="1533067997965" expanded="true" signature="552:607" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -50,23 +43,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayWithString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PlayWithString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StringConcatenationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StringConcatenationTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="705">
-              <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+              <caret line="45" column="30" lean-forward="false" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <marker date="1533067997977" expanded="true" signature="258:446" ph="{...}" />
+                <marker date="1533067997977" expanded="false" signature="269:275" ph="val" />
+                <marker date="1533067997977" expanded="false" signature="513:519" ph="val" />
+                <marker date="1533067997977" expanded="true" signature="764:1253" ph="{...}" />
+                <marker date="1533067997977" expanded="false" signature="775:778" ph="val" />
+                <marker date="1533067997977" expanded="false" signature="870:873" ph="val" />
+                <marker date="1533067997977" expanded="false" signature="893:899" ph="val" />
+                <marker date="1533067997977" expanded="false" signature="987:993" ph="val" />
+                <marker date="1533067997977" expanded="false" signature="1012:1018" ph="val" />
+                <marker date="1533067997977" expanded="false" signature="1075:1079" ph="$" />
+                <marker date="1533067997977" expanded="false" signature="1081:1082" ph="&quot;)" />
+                <marker date="1533067997977" expanded="false" signature="1165:1171" ph="val" />
               </folding>
             </state>
           </provider>
@@ -124,16 +119,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwichTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SwichTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SwichTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="620">
-              <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+              <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
               <folding>
-                <element signature="e#1027#1041#1" expanded="true" />
-                <element signature="e#1050#1152#0" expanded="true" />
-                <element signature="e#1050#1152#0" expanded="true" />
+                <element signature="e#1069#1083#1" expanded="true" />
+                <element signature="e#1092#1194#0" expanded="true" />
+                <element signature="e#1092#1194#0" expanded="true" />
+                <marker date="1533067997951" expanded="false" signature="235:241" ph="val" />
+                <marker date="1533067997951" expanded="false" signature="437:440" ph="val" />
+                <marker date="1533067997951" expanded="false" signature="600:603" ph="val" />
+                <marker date="1533067997951" expanded="false" signature="749:752" ph="val" />
+                <marker date="1533067997951" expanded="false" signature="849:850" ph="" />
+                <marker date="1533067997951" expanded="false" signature="850:853" ph="val" />
+                <marker date="1533067997951" expanded="false" signature="855:858" ph=" : [" />
+                <marker date="1533067997951" expanded="false" signature="859:865" ph=", " />
+                <marker date="1533067997951" expanded="false" signature="866:871" ph=")" />
+                <marker date="1533067997951" expanded="false" signature="871:872" ph="" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -154,7 +169,14 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -209,6 +231,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Parent.java" />
         <option value="$PROJECT_DIR$/src/main/java/Child.java" />
         <option value="$PROJECT_DIR$/src/test/java/SwichTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -241,9 +264,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="11" />
-    <option name="y" value="105" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="104" />
+    <option name="y" value="141" />
     <option name="width" value="1616" />
     <option name="height" value="916" />
   </component>
@@ -345,6 +368,8 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="yaml" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="SearchEverywhereHistoryKey" value=".gitig&#9;FILE&#9;file://C:/Git/Ref/sampleTest/.gitignore" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -990,7 +1015,7 @@
       <workItem from="1530249216316" duration="136000" />
       <workItem from="1530559528911" duration="1113000" />
       <workItem from="1530725227066" duration="321355000" />
-      <workItem from="1531254237178" duration="2215000" />
+      <workItem from="1531254237178" duration="3566000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1526532808807</created>
@@ -999,7 +1024,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526532808807</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1533067967315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533067967315</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1035,10 +1067,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="468060000" />
+    <option name="totallyTimeSpent" value="469411000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="104" y="141" width="1616" height="916" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1053,16 +1095,17 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3204301" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48064515" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3268817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2763441" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19936034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32948717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2403599" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1072,7 +1115,6 @@
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1116,7 +1158,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/SwichTest.java</url>
-          <line>37</line>
+          <line>39</line>
           <properties class="SwichTest" method="addAndSubTest2">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1132,13 +1174,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1389,10 +1424,6 @@
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#157#158#0" expanded="false" />
-            <element signature="e#192#193#0" expanded="false" />
-            <element signature="e#240#241#0" expanded="false" />
-            <element signature="e#283#284#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1435,9 +1466,11 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/StringRelatedTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+            <marker date="1533067997965" expanded="true" signature="310:509" ph="{...}" />
+            <marker date="1533067997965" expanded="true" signature="552:607" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1453,9 +1486,21 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/StringConcatenationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
-          <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+          <caret line="45" column="30" lean-forward="false" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <marker date="1533067997977" expanded="true" signature="258:446" ph="{...}" />
+            <marker date="1533067997977" expanded="false" signature="269:275" ph="val" />
+            <marker date="1533067997977" expanded="false" signature="513:519" ph="val" />
+            <marker date="1533067997977" expanded="true" signature="764:1253" ph="{...}" />
+            <marker date="1533067997977" expanded="false" signature="775:778" ph="val" />
+            <marker date="1533067997977" expanded="false" signature="870:873" ph="val" />
+            <marker date="1533067997977" expanded="false" signature="893:899" ph="val" />
+            <marker date="1533067997977" expanded="false" signature="987:993" ph="val" />
+            <marker date="1533067997977" expanded="false" signature="1012:1018" ph="val" />
+            <marker date="1533067997977" expanded="false" signature="1075:1079" ph="$" />
+            <marker date="1533067997977" expanded="false" signature="1081:1082" ph="&quot;)" />
+            <marker date="1533067997977" expanded="false" signature="1165:1171" ph="val" />
           </folding>
         </state>
       </provider>
@@ -1507,12 +1552,30 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/SwichTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
-          <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
           <folding>
-            <element signature="e#1027#1041#1" expanded="true" />
-            <element signature="e#1050#1152#0" expanded="true" />
-            <element signature="e#1050#1152#0" expanded="true" />
+            <element signature="e#1069#1083#1" expanded="true" />
+            <element signature="e#1092#1194#0" expanded="true" />
+            <element signature="e#1092#1194#0" expanded="true" />
+            <marker date="1533067997951" expanded="false" signature="235:241" ph="val" />
+            <marker date="1533067997951" expanded="false" signature="437:440" ph="val" />
+            <marker date="1533067997951" expanded="false" signature="600:603" ph="val" />
+            <marker date="1533067997951" expanded="false" signature="749:752" ph="val" />
+            <marker date="1533067997951" expanded="false" signature="849:850" ph="" />
+            <marker date="1533067997951" expanded="false" signature="850:853" ph="val" />
+            <marker date="1533067997951" expanded="false" signature="855:858" ph=" : [" />
+            <marker date="1533067997951" expanded="false" signature="859:865" ph=", " />
+            <marker date="1533067997951" expanded="false" signature="866:871" ph=")" />
+            <marker date="1533067997951" expanded="false" signature="871:872" ph="" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>

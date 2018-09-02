@@ -35,3 +35,4 @@ target/surefire-reports/
 /src/test/java/PriceUpdater.java
 src/test/java/PriceUpdater.java
 target/maven-archiver/
+target
