@@ -25,7 +25,7 @@
 hs_err_pid*
 
 #/target/
-.gitignore
+
 .idea/sonarlint/
 target/generated-sources/
 target/generated-test-sources/
@@ -39,3 +39,15 @@ target
 .idea/workspace.xml
 .idea
 *.iml
+### Java template
+# Compiled class file
+
+# Log file
+
+# BlueJ files
+
+# Mobile Tools for Java (J2ME)
+
+# Package Files #
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
