@@ -10,9 +10,7 @@ public class SimpleSeleniumTest {
 
   @Test
   public void openTheWeb() {
-    System.setProperty(
-        "webdriver.chrome.driver",
-        "D:\\Personal Ones\\Sample\\Ten10\\src\\resources\\chromedriver.exe");
+    System.setProperty("webdriver.chrome.driver", "src\\resources\\chromedriver.exe");
     WebDriver dr = new ChromeDriver();
     dr.get("https://google.com");
     dr.getTitle();
