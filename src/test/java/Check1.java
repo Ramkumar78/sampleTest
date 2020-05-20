@@ -1,7 +1,9 @@
 import org.junit.Test;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class Check1 {
 
@@ -24,5 +26,28 @@ public class Check1 {
         array1.clear();
       }
     }
+  }
+
+  @Test
+  public void arrayTest(){
+    String a[]={"a","b","c"};
+    String b[]={"d","b","e"};
+    for(int i = 0; i < a.length; i++){
+String x= a[i];
+      for(int j = 0; j < b.length; j++)
+      {
+        if(a[i]==b[j]){
+          System.out.println(a[i]);
+                }
+
+      }
+    }
+  }
+
+  @Test
+    public void genericsTest(){
+      Set<Integer> a= new HashSet<>();
+      List<Integer> b=new ArrayList<>();
+
   }
 }
